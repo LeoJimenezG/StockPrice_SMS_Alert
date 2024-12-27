@@ -70,9 +70,9 @@ If everything works correctly, the receiver will get **three SMS messages** with
 
 ## 📚 Useful Resources
 
-- [Twilio Documentation](https://www.twilio.com/docs/messaging)  
-- [News API Documentation](https://newsapi.org/docs)  
-- [Alpha Vantage Documentation](https://www.alphavantage.co/documentation/)
+- [Twilio docs](https://www.twilio.com/docs/messaging)  
+- [News API docs](https://newsapi.org/docs)  
+- [Alpha Vantage docs](https://www.alphavantage.co/documentation/)
 
 ---
 
